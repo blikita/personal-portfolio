@@ -1,0 +1,18 @@
+[
+    {
+        "name" : "Project 1",
+        "description" : "Creating my personal portfolio using React",
+        "link" : "https://github.com/"
+    },
+    {
+        "name" : "Project 2",
+        "description" : "Build the Frontend of a Financial Application Using React",
+        "link" : "https://github.com/"
+    },
+    {
+        "name" : "Project 3",
+        "description" : "v",
+        "link" : "https://github.com/"
+    }
+    
+]
